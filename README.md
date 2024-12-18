@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/dharmen80496076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharmen80496076" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dharmendra-mahanta-29bb47206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmendra-mahanta-29bb47206" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dharmendra_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmendra_007" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mahantmibd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahantmibd" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dharmendra_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmendra_007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
