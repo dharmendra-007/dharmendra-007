@@ -69,3 +69,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dharmendra-007&theme=vue" height="200" />
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/dharmendra-007/dharmendra-007/output/github-contribution-grid-snake-dark.svg)
