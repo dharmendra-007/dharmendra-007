@@ -59,14 +59,12 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharmendra-007&theme=vue" height="200" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmendra-007&show_icons=true&locale=en&theme=vue" height="200" />
-</p>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 16px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharmendra-007&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmendra-007&show_icons=true&locale=en&theme=vue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dharmendra-007&theme=vue" />
+</div>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dharmendra-007&theme=vue" height="200" />
+  <img src="https://raw.githubusercontent.com/dharmendra-007/dharmendra-007/main/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 </p>
-
-![Snake animation](https://raw.githubusercontent.com/dharmendra-007/dharmendra-007/main/output/github-contribution-grid-snake-dark.svg)
