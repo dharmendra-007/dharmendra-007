@@ -65,6 +65,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dharmendra-007&theme=vue" />
 </div>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/dharmendra-007/dharmendra-007/main/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
-</p>
+## 🟡 My Contribution Graph (Pac-Man)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/dharmendra-007/dharmendra-007/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/dharmendra-007/dharmendra-007/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/dharmendra-007/dharmendra-007/output/pacman-contribution-graph.svg"
+  />
+</picture>
