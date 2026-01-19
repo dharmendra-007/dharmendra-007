@@ -65,7 +65,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dharmendra-007&theme=vue" />
 </div>
 
-## 🟡 My Contribution Graph (Pac-Man)
+## 🟡 My Contribution Graph
 
 <picture>
   <source
