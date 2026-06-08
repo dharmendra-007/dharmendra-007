@@ -17,7 +17,7 @@
   </a>
 </p>
 
-> 🚀 **Portfolio**: Visit [**dharmendra.space**](https://www.dharmendra.space) to see my latest work!
+> 🚀 **Portfolio**: Visit [**mdharmendra.space**](https://www.mdharmendra.space) to see my latest work!
 
 - 🌱 I’m currently learning **Full Stack Development**
 
